@@ -1,0 +1,15 @@
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\bin\Debug\graphics app.exe.config
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\bin\Debug\graphics app.exe
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\bin\Debug\graphics app.pdb
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics_app.DDA_form.resources
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics_app.Form1.resources
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics_app.Properties.Resources.resources
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics app.csproj.GenerateResource.Cache
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics app.exe
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics app.pdb
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics app.csprojResolveAssemblyReference.cache
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics_app.bresinham_form.resources
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics_app.circle_form.resources
+C:\Users\mosta\onedrive\documents\visual studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics_app.ellipse_form.resources
+C:\Users\mosta\OneDrive\Documents\Visual Studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics_app.filling_form.resources
+C:\Users\mosta\OneDrive\Documents\Visual Studio 2013\Projects\graphics app\graphics app\obj\Debug\graphics_app.clipping_form.resources
